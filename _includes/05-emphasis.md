@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**So what are the main and favorite stacks?**
+* _JavaScript_
+* _HTML & CSS_
+* _React_
+* _SQL_
